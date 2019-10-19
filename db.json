@@ -1,19 +1,19 @@
 {
-  gifts:[
+  'gifts':[
     {
-      name:'Pratiksha',
-      giftName:'iphone-11',
-      imagePath:'https://www.pcquest.com/wp-content/uploads/2019/04/iphone-11.jpg'
+      'name':'Pratiksha',
+      'giftName':'iphone-11',
+      'imagePath':'https://www.pcquest.com/wp-content/uploads/2019/04/iphone-11.jpg'
     },
     {
-      name:'Nutan',
-      giftName:'Catbury celebration',
-      imagePath:'https://images-na.ssl-images-amazon.com/images/I/81WBNCnf36L._SX679_.jpg'
+      'name':'Nutan',
+      'giftName':'Catbury celebration',
+      'imagePath':'https://images-na.ssl-images-amazon.com/images/I/81WBNCnf36L._SX679_.jpg'
     },
     {
-      name:'Mahesh',
-      giftName:'Camera',
-      imagePath:'http://pngimg.com/uploads/photo_camera/photo_camera_PNG7830.png'
+      'name':'Mahesh',
+      'giftName':'Camera',
+      'imagePath':'http://pngimg.com/uploads/photo_camera/photo_camera_PNG7830.png'
     }
   ]
 }
